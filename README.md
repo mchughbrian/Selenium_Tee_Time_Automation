@@ -14,4 +14,7 @@ and act on the information that is being given by the website.
 # Learnings 
 When following tutorials or online courses some of these tasks seem trivial.
 When working with a real world example the naming system is inconsistent and often hidden in different tags. 
-There is another way to complete with with GET/POST requests using the request python library. 
+There is another way to complete this task with with GET/POST requests using the request python library. 
+However, my account was not classified to book times through the POST request. It appears there was a security measure put in place. 
+Selenium was the work around, a bit slower but a few extra seconds opening the browser is not critical for the project. 
+
